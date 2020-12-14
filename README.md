@@ -2,7 +2,7 @@
 
 Na live coding desenvolvemos um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
-Durante a sessão, serão abordadomos os seguintes tópicos:
+Durante a sessão, forão abordados os seguintes tópicos:
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
